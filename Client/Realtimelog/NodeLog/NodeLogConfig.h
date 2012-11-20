@@ -1,0 +1,2 @@
+#define LOG_SERVER_HOST @"192.168.1.110"
+#define LOG_SERVER_POST 5400

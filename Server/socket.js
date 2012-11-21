@@ -1,5 +1,5 @@
 // Load the TCP Library
-var HOST_SERVER = "192.168.1.110";
+var HOST_SERVER = "192.168.1.95";
 var HOST_PORT = 5400;
 
 var net = require('net');
